@@ -22,10 +22,10 @@
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2140026-1",
-      "native_yandex":"R-M-2140026-2",
-      "interstitial_yandex":"R-M-2140026-3",
-      "rewarde_yandex":"R-M-2140026-4",
+      "banner_yandex":"R-M-2140727-1",
+      "native_yandex":"R-M-2140727-2",
+      "interstitial_yandex":"R-M-2140727-3",
+      "rewarde_yandex":"R-M-2140727-4",
         
         
         "banner_huawei":"testw6vs28auh3",
